@@ -1,0 +1,13 @@
+streamlit
+langchain
+##langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-experimental
+neo4j
+neo4j-graphrag
+beautifulsoup4
+requests
+python-dotenv
+pydantic
+langchain-neo4j
